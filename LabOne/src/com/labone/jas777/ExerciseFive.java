@@ -1,4 +1,4 @@
-package com.jas777;
+package com.labone.jas777;
 
 import java.io.IOException;
 import java.util.InputMismatchException;
