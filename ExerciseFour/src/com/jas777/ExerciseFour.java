@@ -26,7 +26,7 @@ public class ExerciseFour {
             System.out.println("Podano nieprawidłowe dane");
         }
 
-        if ((a + b) > c && (b + c) > a && (c + a) > b)
+        if (a == b && b == c)
             System.out.println("tak");
         else System.out.println("nie");
 
